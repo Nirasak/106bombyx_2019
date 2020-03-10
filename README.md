@@ -26,4 +26,4 @@ draw the graphs.
 | i1     | final generation (included)                         |
 
 ## Result
-100% moulinette Epitech
+97.6% moulinette Epitech
