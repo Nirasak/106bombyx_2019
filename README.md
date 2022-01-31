@@ -15,15 +15,17 @@ In both cases, your program shall print on the standard outuput the values to be
 draw the graphs.
 
 #### Usage
-    ./106bombyx n [k | i0 i1]
+     ./308reedpipes r0 r5 r10 r15 r20 n
 
 #### Description
 | params | description                                         |
 | ------ |:---------------------------------------------------:|
-| n      | number of first generation individuals              |
-| k      | growth rate from 1 to 4                             |
-| i0     | initial generation (included)                       |
-| i1     | final generation (included)                         |
+| r0     | radius (in cm) of pipe at the 0cm abscissa          |
+| r5     | radius (in cm) of pipe at the 0cm abscissa          |
+| r10    | radius (in cm) of pipe at the 0cm abscissa          |
+| r15    | radius (in cm) of pipe at the 0cm abscissa          |
+| r20    | radius (in cm) of pipe at the 0cm abscissa          |
+| n      | number of points needed to display the radius       |
 
 ## Result
-97.6% moulinette Epitech
+100% moulinette Epitech
